@@ -10,7 +10,7 @@ python
 ### To Use:
 
 * `git clone https://github.com/gamblinflanagan/pigdice/`
-* `run program in any python IDE`
+* `run the file pigDice.py in any python IDE`
 
 ### To Run In Linux/Unix Command Line:
 
